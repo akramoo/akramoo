@@ -29,5 +29,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akramoo&" alt="akramoo" /></p>
 
 [![committers.top badge](https://user-badge.committers.top/algeria/akramoo.svg)](https://user-badge.committers.top/algeria/akramoo)
-[![committers.top badge](https://org-badge.committers.top/algeria/akramoo.svg)](https://org-badge.committers.top/algeria/akramoo)
 
