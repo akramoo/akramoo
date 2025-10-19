@@ -6,9 +6,9 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEzbnZwN281bTBwbjl3dTZuNnkwenl2Nm50YmJqN29kaGxkOG9mYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation"/>
 
-<img src="https://komarev.com/ghpvc/?username=akramoo&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=akramoo&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 
 ---
 
@@ -179,7 +179,5 @@ const akram = {
 <div align="center">
   
 **Thanks for visiting! 😊**
-
-![Snake animation](https://raw.githubusercontent.com/akramoo/akramoo/output/github-contribution-grid-snake-dark.svg)
 
 </div>
