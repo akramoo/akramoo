@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Samir Akram OUNIS
 
-### Full-Stack & AI Engineer — Algiers, Algeria 🇩🇿
+### Full-Stack & AI Engineer, based in Algiers, Algeria 🇩🇿
 
-I build web platforms and AI systems that actually ship — from multi-agent LLM backends to computer-vision pipelines.
+I build web platforms, AI systems, and computer-vision pipelines that make it to production.
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEzbnZwN281bTBwbjl3dTZuNnkwenl2Nm50YmJqN29kaGxkOG9mYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="440" alt="Coding Animation"/>
 
@@ -18,11 +18,11 @@ I build web platforms and AI systems that actually ship — from multi-agent LLM
 
 ## 🧑‍💻 About Me
 
-I'm a software engineer who works across the whole stack — the interface people click, the API behind it, and increasingly the AI that makes it useful.
+I'm a software engineer who works across the full stack: the interface, the API behind it, and the AI layer on top.
 
-I graduated in **June 2026** with a Master's in **Intelligent Computer Systems Engineering** from the University of Algiers 1. Along the way I've spent about two years building real things for real users: internal platforms for a bank-services company, client websites as a freelancer, computer-vision tooling for a product team, and most recently a multi-agent AI assistant inside a telecom operator.
+I graduated in **June 2026** with a Master's in **Intelligent Computer Systems Engineering** from the University of Algiers 1. Alongside my studies I spent about two years building for real users: internal platforms for a bank-services company, client websites as a freelancer, computer-vision tooling for a product team, and most recently a multi-agent AI assistant inside a telecom operator.
 
-What I enjoy most is the messy middle — taking a vague problem, choosing an architecture that won't collapse in six months, and shipping it.
+The work I like best starts out vague. Picking an architecture that still holds up a year later, then getting it shipped, is the part I care about.
 
 🎯 **Currently open to opportunities**, ideally where AI meets production software.
 
@@ -46,16 +46,16 @@ const akram = {
 
 ## 🚀 What I've Been Building
 
-**🤖 Djezzy Commercial Copilot** — *Data Scientist / AI Engineer @ Djezzy*
-Led a 5-engineer team building a multi-agent BI assistant that answers plain-English business questions over 13 months of commercial data. LangGraph orchestration, guarded text-to-SQL validated before it ever touches the warehouse, and durable async execution via Temporal + Kafka + WebSockets so heavy queries never hang behind a spinner.
+**🤖 Djezzy Commercial Copilot** *(Data Scientist / AI Engineer @ Djezzy)*
+Led a 5-engineer team building a multi-agent BI assistant that answers plain-English business questions over 13 months of commercial data. LangGraph handles the orchestration, generated SQL is validated before it ever reaches the warehouse, and Temporal, Kafka, and WebSockets keep heavy queries running in the background instead of behind a loading spinner.
 
-**🔬 PathOS** — *Master's thesis, graded 17.75/20*
+**🔬 PathOS** *(Master's thesis, graded 17.75/20)*
 A research pipeline for prostate cancer detection from gigapixel whole-slide images: OpenSlide preprocessing, pathology foundation-model embeddings (HistoEncoder / Virchow2), artifact gating, and ABMIL/TransMIL classifiers with attention heatmaps. Best run reached **0.915 validation QWK**.
 
-**🏦 TPMS** — *Software Engineer @ Expertic*
-An internal service-management platform for bank requests, ticketing, and TPE inventory — role-based access with Next.js, NestJS, Prisma, PostgreSQL, CASL, and SSE notifications.
+**🏦 TPMS** *(Software Engineer @ Expertic)*
+An internal service-management platform for bank requests, ticketing, and TPE inventory, with role-based access built on Next.js, NestJS, Prisma, PostgreSQL, CASL, and SSE notifications.
 
-**💻 Freelance & client work** — *nightbyte*
+**💻 Freelance & client work** *(nightbyte)*
 Shipped multiple web platforms end to end as the sole engineer, from requirements through deployment.
 
 <div align="center">
@@ -70,7 +70,7 @@ Shipped multiple web platforms end to end as the sole engineer, from requirement
 
 <div align="center">
 
-### Production — what I reach for first
+### Production (what I reach for first)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -81,7 +81,7 @@ Shipped multiple web platforms end to end as the sole engineer, from requirement
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-### AI & Backend — shipped with these
+### AI & Backend (shipped with these)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -106,7 +106,7 @@ Shipped multiple web platforms end to end as the sole engineer, from requirement
 
 ## 🤝 Community
 
-Founded and led the **NIT Computer Society Club** (20+ members) — ran *NCS Hack*, a 3-day hackathon with 100+ participants, plus AI and web-development bootcamps. Still active with the **Google Developer Group** community.
+Founded and led the **NIT Computer Society Club** (20+ members). Ran *NCS Hack*, a 3-day hackathon with 100+ participants, plus AI and web-development bootcamps. Still active with the **Google Developer Group** community.
 
 ---
 
@@ -134,7 +134,7 @@ Founded and led the **NIT Computer Society Club** (20+ members) — ran *NCS Hac
 
 <div align="center">
 
-I'm open to roles and collaborations — especially anything involving AI systems, backend architecture, or products that need to work at scale.
+I'm open to roles and collaborations, especially anything involving AI systems, backend architecture, or products that need to scale.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-akramounis.com-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://akramounis.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-akram-ounis/)
@@ -142,6 +142,6 @@ I'm open to roles and collaborations — especially anything involving AI system
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/akramoo)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/samirounis2)
 
-**Thanks for stopping by 😊**
+**Thanks for visiting 😊**
 
 </div>
