@@ -1,26 +1,16 @@
 <div align="center">
-  
+
 # 👋 Hi, I'm Samir Akram OUNIS
 
-### 🚀 Software & AI Engineer | Full-Stack Developer | ML Enthusiast
+### Full-Stack & AI Engineer — Algiers, Algeria 🇩🇿
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEzbnZwN281bTBwbjl3dTZuNnkwenl2Nm50YmJqN29kaGxkOG9mYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation"/>
+I build web platforms and AI systems that actually ship — from multi-agent LLM backends to computer-vision pipelines.
 
-</div>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEzbnZwN281bTBwbjl3dTZuNnkwenl2Nm50YmJqN29kaGxkOG9mYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="440" alt="Coding Animation"/>
+
+**[🌐 Portfolio](https://akramounis.com) · [📄 Resume](https://akramounis.com/resume.pdf) · [💼 LinkedIn](https://www.linkedin.com/in/samir-akram-ounis/) · [✉️ Email](mailto:samirounis2@gmail.com)**
 
 <img src="https://komarev.com/ghpvc/?username=akramoo&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-
----
-
-## 🎯 My Goals
-
-<div align="center">
-
-🌍 **Build intelligent systems that make a global impact**
-
-💡 **Work abroad and grow as a top AI engineer**
-
-🚀 **Turn big dreams into scalable, real-world solutions**
 
 </div>
 
@@ -28,49 +18,51 @@
 
 ## 🧑‍💻 About Me
 
+I'm a software engineer who works across the whole stack — the interface people click, the API behind it, and increasingly the AI that makes it useful.
+
+I graduated in **June 2026** with a Master's in **Intelligent Computer Systems Engineering** from the University of Algiers 1. Along the way I've spent about two years building real things for real users: internal platforms for a bank-services company, client websites as a freelancer, computer-vision tooling for a product team, and most recently a multi-agent AI assistant inside a telecom operator.
+
+What I enjoy most is the messy middle — taking a vague problem, choosing an architecture that won't collapse in six months, and shipping it.
+
+🎯 **Currently open to opportunities**, ideally where AI meets production software.
+
 ```javascript
 const akram = {
-    location: "Algeria 🇩🇿",
-    role: "Software & AI Engineer",
-    code: ["JavaScript", "TypeScript", "Python", "Kotlin", "Java", "Dart", "C"],
-    technologies: {
-        frontEnd: ["React", "Next.js", "TailwindCSS", "Flutter", "Jetpack Compose"],
-        backEnd: ["Node.js", "Express.js", "NestJS", "FastAPI"],
-        databases: ["PostgreSQL", "MongoDB", "MySQL", "Prisma ORM"],
-        tools: [
-            "Git", "GitLab", "Docker", "Postman", "Jira", "ffmpeg", "OpenCV",
-            "WebRTC", "BullMQ"
-        ],
-        cloud: ["Mattermost", "Self-hosted GitLab", "Cloud Infrastructure Management"]
-    },
-    passions: [
-        "Deep Learning", 
-        "Large Language Models (LLMs)",
-        "SaaS Architecture",
-        "Frontend Development",
-        "Agentic Programming",
-        "System Design",
-        "Problem Solving"
-    ],
-    funFact: "The first 'computer bug' was an actual bug! 🐛",
-    goals: [
-        "Build intelligent systems that make a global impact 🌍",
-        "Work abroad and grow as a top AI engineer 💡",
-        "Turn big dreams into scalable, real-world solutions 🚀"
-    ]
+  role: "Full-Stack / AI Engineer",
+  location: "Algiers, Algeria 🇩🇿",
+  education: "MSc, Intelligent Computer Systems Engineering (2026)",
+  building: [
+    "Multi-agent LLM systems",
+    "Production web platforms",
+    "Computer-vision pipelines",
+  ],
+  daily: ["TypeScript", "Python", "Next.js", "NestJS", "FastAPI", "PostgreSQL"],
+  learning: ["Rust", "Kubernetes", "Distributed systems"],
+  funFact: "The first 'computer bug' was an actual bug 🐛",
 };
 ```
 
 ---
 
-## 💼 What I Do
+## 🚀 What I've Been Building
 
-🧠 **Deep Learning & LLMs** - Building intelligent systems with AI and large language models  
-🏗️ **SaaS Architecture** - Designing scalable, cloud-native solutions  
-🎨 **Frontend Development** - Crafting beautiful, responsive user interfaces with modern frameworks  
-⚡ **Full-Stack Development** - Creating end-to-end web applications with cutting-edge tech  
-🤖 **Agentic Programming** - Developing autonomous AI systems  
-🧩 **Problem Solving** - Active on HackerRank and LeetCode  
+**🤖 Djezzy Commercial Copilot** — *Data Scientist / AI Engineer @ Djezzy*
+Led a 5-engineer team building a multi-agent BI assistant that answers plain-English business questions over 13 months of commercial data. LangGraph orchestration, guarded text-to-SQL validated before it ever touches the warehouse, and durable async execution via Temporal + Kafka + WebSockets so heavy queries never hang behind a spinner.
+
+**🔬 PathOS** — *Master's thesis, graded 17.75/20*
+A research pipeline for prostate cancer detection from gigapixel whole-slide images: OpenSlide preprocessing, pathology foundation-model embeddings (HistoEncoder / Virchow2), artifact gating, and ABMIL/TransMIL classifiers with attention heatmaps. Best run reached **0.915 validation QWK**.
+
+**🏦 TPMS** — *Software Engineer @ Expertic*
+An internal service-management platform for bank requests, ticketing, and TPE inventory — role-based access with Next.js, NestJS, Prisma, PostgreSQL, CASL, and SSE notifications.
+
+**💻 Freelance & client work** — *nightbyte*
+Shipped multiple web platforms end to end as the sole engineer, from requirements through deployment.
+
+<div align="center">
+
+**→ Full case studies and archive at [akramounis.com](https://akramounis.com)**
+
+</div>
 
 ---
 
@@ -78,106 +70,78 @@ const akram = {
 
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Production — what I reach for first
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-### Tools & Cloud
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+### AI & Backend — shipped with these
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-![Mattermost](https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Exploring
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🤝 Community
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akramoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akramoo&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramoo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</div>
+Founded and led the **NIT Computer Society Club** (20+ members) — ran *NCS Hack*, a 3-day hackathon with 100+ participants, plus AI and web-development bootcamps. Still active with the **Google Developer Group** community.
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Stats
 
 <div align="center">
-  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akramoo&theme=tokyonight" alt="GitHub Stats" height="200"/>
+  <img src="https://streak-stats.demolab.com/?user=akramoo&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akramoo&theme=tokyonight" alt="Top Languages by Commit" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akramoo&theme=tokyonight" alt="Top Languages by Repo" height="200"/>
+</div>
+
+<div align="center">
+
 [![committers.top badge](https://user-badge.committers.top/algeria/akramoo.svg)](https://user-badge.committers.top/algeria/akramoo)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Let's Talk
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samir-akram-ounis)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akira_.ao)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/samirounis2)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/akramoo)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/akramounis)
+I'm open to roles and collaborations — especially anything involving AI systems, backend architecture, or products that need to work at scale.
 
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-akramounis.com-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://akramounis.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-akram-ounis/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samirounis2@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/akramoo)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/samirounis2)
 
----
-
-## 📫 Get In Touch
-
-<div align="center">
-
-**Email:** samirounis2@gmail.com
-
-💡 Open to collaborations and interesting projects!
-
-</div>
-
----
-
-<div align="center">
-  
-### 💭 Quote of the Day
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<div align="center">
-  
-**Thanks for visiting! 😊**
+**Thanks for stopping by 😊**
 
 </div>
